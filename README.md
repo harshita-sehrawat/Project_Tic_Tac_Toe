@@ -26,14 +26,7 @@ This is a console-based Two-Player Tic-Tac-Toe game developed in C for the **FOC
 
 ---
 
-## Repository Structure
-```text
-Project_Tic_Tac_Toe/
-├── README.md
-├── TIC_TAC_TOE.C
-├── screenshots/
-│   ├── menu.png
-│   ├── gameplay.png
+
 │   └── result.png
 └── docs/
     └── FOCP_I_Tic_Tac_Toe_Project_Report-v3.docx
